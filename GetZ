@@ -74,6 +74,8 @@ Gaffer.Metadata.registerValue( __children["GetZ"], 'noduleLayout:customGadget:ad
 Gaffer.Metadata.registerValue( __children["GetZ"], 'noduleLayout:customGadget:addButtonBottom:visible', False )
 Gaffer.Metadata.registerValue( __children["GetZ"], 'noduleLayout:customGadget:addButtonLeft:visible', False )
 Gaffer.Metadata.registerValue( __children["GetZ"], 'noduleLayout:customGadget:addButtonRight:visible', False )
+Gaffer.Metadata.registerValue( __children["GetZ"], 'documentation:url', '' )
+Gaffer.Metadata.registerValue( __children["GetZ"], 'description', 'A container for "subgraphs" - node networks which exist inside the\nBox and can be exposed by promoting selected internal plugs onto the\noutside of the Box.\n\nBoxes can be used as an organisational tool for simplifying large\ngraphs by collapsing them into sections which perform distinct tasks.\nThey are also used for authoring files to be used with the Reference\nnode.' )
 __children["GetZ"]["CopyChannels"]["in"][0].setInput( __children["GetZ"]["Dot1"]["out"] )
 __children["GetZ"]["CopyChannels"]["in"][1].setInput( __children["GetZ"]["Dot2"]["out"] )
 __children["GetZ"]["CopyChannels"]["channels"].setValue( '[RGBA] Y' )
