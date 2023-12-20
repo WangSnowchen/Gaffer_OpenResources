@@ -13,7 +13,7 @@
 ![image](https://github.com/WangSnowchen/Gaffer_OpenResources/assets/62184149/b2b15153-1a96-426e-9293-e6ed5c26a140)
 
 ## Crowds_BoundCenter
-适用于群集角色命名为“A1”，“A2”。。。"A33"的情况，通过FilterResults和BoundQuery批量查询每个角色的中心位置并创建想要批量创建的物体（附有Python脚本来批量创建表格）
+适用于群集角色命名为“A1”，“A2”。。。"A3"的情况，通过FilterResults和BoundQuery批量查询每个角色的中心位置并创建想要批量创建的物体（附有Python脚本来批量创建表格）
 
 ## GetZ
 通过对渲染出来的Z通道进行计算，生成景深雾气
