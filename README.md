@@ -38,3 +38,8 @@
 
 ## lightlinks_Spreadsheet
 灯光链接表格
+
+## LightDecayVisualiser
+提供一种可视化的方式来调整灯光的衰减
+
+![image](https://github.com/WangSnowchen/Gaffer_OpenResources/assets/62184149/bef441cf-a7a0-4823-a4c8-f7419327364d)
