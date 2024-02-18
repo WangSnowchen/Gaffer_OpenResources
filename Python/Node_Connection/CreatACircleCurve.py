@@ -1,3 +1,8 @@
+###
+#Use a short segment of ball animation to drive the core node
+# MotionPath to generate a circular curve
+###
+
 import Gaffer
 import GafferScene
 import IECore

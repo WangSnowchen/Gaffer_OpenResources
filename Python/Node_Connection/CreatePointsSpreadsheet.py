@@ -1,3 +1,8 @@
+###
+#Use scatter to extract a single point
+#and create a table to support the creation of multiple points.
+###
+
 import Gaffer
 import GafferOSL
 import GafferScene

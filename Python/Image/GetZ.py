@@ -1,3 +1,7 @@
+###
+#Quickly obtain the correct Z channel information by operating image channels
+###
+
 import Gaffer
 import GafferImage
 import imath

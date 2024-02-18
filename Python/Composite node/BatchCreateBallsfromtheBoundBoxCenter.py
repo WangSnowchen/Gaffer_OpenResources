@@ -1,3 +1,10 @@
+###
+#This is an experimental node that is quickly implemented
+#in the project and has a certain complexity. 
+#There is a PythonCommand in the node that needs to be 
+#executed in Gaffer's PythonEditor.
+###
+
 import Gaffer
 import GafferDispatch
 import GafferScene

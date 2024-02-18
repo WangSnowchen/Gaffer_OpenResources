@@ -1,3 +1,10 @@
+###
+#The following code snippet describes a node that uses
+#GafferSceneUI.ContextAlgo.setVisibleSet() 
+#to control the visibility toggle in the hierarchical structure view. 
+#This allows for quick restoration of the previous settings each time the file is reopened.
+###
+
 import Gaffer
 import GafferScene
 import IECore

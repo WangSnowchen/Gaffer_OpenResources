@@ -1,3 +1,7 @@
+###
+#Create a simple visual adjustment handle through node connections
+###
+
 import Gaffer
 import GafferArnold
 import GafferScene
