@@ -1,3 +1,7 @@
+###
+#Modify the Metadata property of the node
+###
+
 import Gaffer
 import IECore
 import imath
